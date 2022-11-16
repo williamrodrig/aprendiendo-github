@@ -1,1 +1,2 @@
-Esta es la practica de git para agilizar el aprendizaje de git 
+Esta es la practica de git para agilizar el aprendizaje de programación.Es de vital importancia para conjugar con
+los algoritmos de los lenguajes de programación.
