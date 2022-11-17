@@ -1,6 +1,21 @@
-body
+#body
 {
     text-align: center;
     font-family: Arial;
-    color: azul;
+    color: rgb(49, 87, 119);
+    font-size: 16px;
+    margin: 0;
+
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center ;
+    border: 1px solid #ddd;
+
+}
+#container h1
+{
+    font-size: 20px;
 }
