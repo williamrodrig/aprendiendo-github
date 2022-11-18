@@ -19,3 +19,18 @@
 {
     font-size: 20px;
 }
+#cabecera
+{
+    background: #339;
+    color: white;
+    padding: 0.5em;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
